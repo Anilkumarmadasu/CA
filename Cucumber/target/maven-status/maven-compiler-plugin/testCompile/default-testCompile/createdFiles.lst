@@ -1,0 +1,10 @@
+pages\login.class
+pages\stores.class
+pages\search.class
+pages\signup.class
+stepdefinitions\signin.class
+utility\snapshot.class
+testrunner\runner.class
+pages\card.class
+pages\order.class
+utility\readproperties.class
